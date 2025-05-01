@@ -1,0 +1,8 @@
+# Analisa o código-fonte Python
+# Gera requirements.txt baseado nos imports usados no código
+
+
+
+pip install pipreqs
+pipreqs . --force
+

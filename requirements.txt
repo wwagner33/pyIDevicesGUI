@@ -1,2 +1,1 @@
-# Dependências do projeto
-# Exemplo: PyQt5 ou Tkinter, subprocess
+
